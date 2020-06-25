@@ -1,9 +1,9 @@
 # animation
-
+<div style="display:inline">
 <img src="https://github.com/yomergonzalez/test_flutter/blob/master/img/img1.png" width=200">
 <img src="https://github.com/yomergonzalez/test_flutter/blob/master/img/img2.png" width=200">
 <img src="https://github.com/yomergonzalez/test_flutter/blob/master/img/img3.png" width=200">
-
+                                                                                            </div>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
