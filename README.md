@@ -1,6 +1,8 @@
 # animation
 
-Testing flare animations
+<img src="https://github.com/yomergonzalez/test_flutter/blob/master/img/img1.png" width=200">
+<img src="https://github.com/yomergonzalez/test_flutter/blob/master/img/img2.png" width=200">
+<img src="https://github.com/yomergonzalez/test_flutter/blob/master/img/img3.png" width=200">
 
 ## Getting Started
 
